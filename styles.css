@@ -1,0 +1,51 @@
+@import url("/styles/header.css");
+@import url("/styles/banner.css");
+@import url("/styles/divisor.css");
+@import url("/styles/card.css");
+@import url("/styles/swiper.css");
+@import url("/styles/footer.css");
+@import url("/styles/menu.css");
+@import url("/styles/sections.css");
+@import url("/styles/tabletQueries.css");
+@import url("/styles/desktopQueries.css");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+
+:root{
+    --primary-color: white;
+    --secondary-color: #617378;
+    --terciary-color: black;
+    --fourty-color: #7BD651;
+    --primary-font: "Quicksand", serif;
+
+}
+
+.body{
+    width: 100%;
+    height: 1876px;
+    background-image: linear-gradient(260deg, #3590AB, #3590ab4d);
+}
+
+.contato_body{
+    width: 100%;
+    height: 1347px;
+    background-image: linear-gradient(260deg, #3590AB, #3590ab4d);
+}
+
+.gdmdev_body{
+    width: 100%;
+    height: 1200px;
+    background-image: linear-gradient(260deg, #3590AB, #3590ab4d);
+}
+
+.gdmgames_body{
+    width: 100%;
+    height: 1600px;
+    background-image: linear-gradient(260deg, #3590AB, #3590ab4d);
+}
+
+.desktop_footer_image{
+    display: none;
+}
+

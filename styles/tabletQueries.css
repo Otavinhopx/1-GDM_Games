@@ -1,0 +1,102 @@
+@media(min-width:750px){
+
+    /*------------Home---------------*/
+    .card{
+        gap:70px
+    }
+
+    .card_button{
+        width: 200px;
+        height: 129px;
+        border-radius: 20px;
+    }
+
+    .card_image{
+        width: 200px;
+    }
+
+    .card_left-side{
+        width: 351px;
+        align-items: start;
+        gap: 20px;
+    }
+
+    .card_right-side{
+        flex-direction: row;
+        align-items: center;
+        gap:50px;
+    }
+
+    .card_icon{
+        padding-left: 50px;
+        gap: 20px;
+    }
+
+    .card_icon_item{
+        width: 50px;
+    }
+
+    /*----------------------Contato----------------------*/
+
+    .contato_section{
+        height: 1150px;
+    }
+
+    .contato_form{
+        width: 700px;
+        align-items: center;
+    }
+
+    .form_item{
+        width: 600px;
+    }
+
+    .assunto_form{
+        width: 650px;
+    }
+
+    .section_text{
+        padding-top: 30px;
+        width: 95%;
+        
+    }
+
+     /*----------------------GDM Games----------------------*/
+
+    .gdmgames_section{
+        align-items:flex-start;
+        padding: 3%;
+        height: 1900px;
+        width: 94%;
+    }
+
+    .section_card{
+        width: 95%;
+    }
+
+    .section_card_text{
+        width: 90%;
+    }
+
+    .gameplay_image{
+        width: 95%;
+        height: 95%;
+    }
+
+    .section_img{
+        align-self: center;
+    }
+
+    /*---------------Menu----------------------*/
+
+    .menu{
+        width: 255px;
+        height: 400px;
+    }
+
+    .menu_items{
+        width: 255px;
+        height: 79px;
+    }
+
+}

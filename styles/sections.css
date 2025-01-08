@@ -1,0 +1,131 @@
+.contato_section{
+    background-color: var(--primary-color);
+    width: 100%;
+    height: 1012px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.336);
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.gdmgames_section{
+    background-color: var(--primary-color);
+    width: 100%;
+    height: 1680px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.336);
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.gdmdev_section{
+    background-color: var(--primary-color);
+    width: 100%;
+    height: 1200px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.336);
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.section_img{
+    width: 300px;
+    height: 250px;
+    margin-top: 16px;
+}
+
+.section_card{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    margin: 5px 0px;
+}
+
+.section_card_mirror{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin: 5px 0px;
+    gap: 50px;
+}
+
+.section_card_text{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 200px;
+}
+
+.section_img_card{
+    width: 134px;
+    height: 184px;
+}
+
+.section_img_dev{
+    width: 120px;
+    height: 120px;
+}
+
+.section_text{
+    margin-top: 10px;
+    height: 133px;
+    width: 368px;
+}
+
+.section_video{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.gameplay_image{
+    width: 395px;
+    height: 240px;
+    margin-bottom: 30px;
+}
+
+.contato_form{
+    display: flex;
+    flex-direction: column;
+    font-family: var(--primary-font);
+    font-size: 16px;
+    gap: 13px;
+    padding: 28px 0px;
+    font-weight: bold;
+    width: 368px;
+}
+
+.form_item{
+    font-family: var(--primary-font);
+    width: 320px;
+    border-radius: 0px 20px;
+    border: solid 1px;
+}
+
+.nickname_form{
+    background-image: url('/assets/nick.png');
+    background-size: 30px;
+    background-position: 10px;
+    background-repeat: no-repeat;
+    height: 42px;
+    padding-left: 50px;
+    
+}
+
+.email_form{
+    background-image: url('/assets/letter3.png');
+    background-size: 30px;
+    background-position: 10px;
+    background-repeat: no-repeat;
+    height: 42px;
+    padding-left: 50px;
+}
+
+.assunto_form{
+   height: 210px;
+   width: 368px;
+}

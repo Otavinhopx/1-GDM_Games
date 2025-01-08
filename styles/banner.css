@@ -1,0 +1,23 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 21px;
+    padding: 35px;
+}
+
+.banner_title{
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--primary-color);
+    font-family: var(--primary-font);
+    
+}
+
+.banner_paragraph{
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 6px;
+    color: var(--primary-color);
+    font-family: var(--primary-font);
+}

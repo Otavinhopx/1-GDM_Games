@@ -1,0 +1,32 @@
+.swiper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.swiper_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.swiper_title_two{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.swiper-slide img{
+    width: 134px;
+    height: 184px;
+}
+
+.swiper-pagination{
+    position: initial !important;
+    padding-bottom: 10px;
+}
+
+.swiper-button-prev, .swiper-button-next{
+    display: none;
+}
