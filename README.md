@@ -35,7 +35,7 @@ Uma página estática criada em HTML e CSS com base em um template do Figma. O s
 
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/seuusuario/gdm-games.git
+   git clone https://github.com/Otavinhopx/1-GDM_Games
    ```
 
 2. Navegue até a pasta do projeto:
